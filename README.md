@@ -17,7 +17,7 @@ The PyPassword Generator application allows users to generate a random password 
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
-3. Run the `pypassword_generator.py` script using Python.
+3. Run the `main.py` script using Python.
 
 ```sh
-python pypassword_generator.py
+python main.py
